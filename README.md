@@ -10,7 +10,7 @@ Note:
 - You may delete main.js to utilized your public and src
 - Clear all the caches of your browser if your app doesn't load on github 
 
-- npm run build - to update your code
+- npm run build - to update your code and rebuild main.js file
 - npm run deploy - to publish your react project
 
 Created by. Waren Gador 
