@@ -23,6 +23,10 @@ I made this component to make your life easier to explore react
       1. CSS 
       2. index.html
       3. php-components - requires hosting server to run backend 
+      
+-> You can start coding with and do your experiments in "index.js"
+
+    1. index.js
 
 -> You can put all your js files inside of "src" folder along with react.js or you can add folders inside.
 
