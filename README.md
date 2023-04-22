@@ -19,11 +19,13 @@ I made this component to make your life easier to explore react
 
 -> You can put your own folders here inside this public folder
     - I prepare all the format inside of this folder
+    
       1. CSS 
       2. index.html
       3. php-components - requires hosting server to run backend 
 
 -> You can put all your js files inside of "src" folder along with react.js or you can add folders inside.
+
     1. react.js
 
 
