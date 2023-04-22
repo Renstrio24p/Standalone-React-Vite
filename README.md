@@ -52,11 +52,12 @@ Note:
 
     - allows to publish your code to github page and this might take sometimes to propagate.
 
-    There you have it. I hope you like this helps to run your project in the future.
+    There you have it. I hope this helps to run your project in the future.
 
-    Sincerely,
-    Waren Gador
-    Web Developer
+
+Sincerely,
+Waren Gador
+Web Developer
 
 Copyright &copy; 2023 Waren Gador  
 
