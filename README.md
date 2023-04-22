@@ -1,4 +1,4 @@
-<img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" width="150em"></img> <h1 style="color:cyan;">Standalone</h1>
+<img src="[https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" width="150em](https://i.ibb.co/4NfqXRf/Clipboard-removebg-preview-1.png)"></img> <h1 style="color:cyan;">Standalone</h1>
 
 complete standalone react w/o npx create-react-app
 
