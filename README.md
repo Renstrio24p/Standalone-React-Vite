@@ -1,6 +1,4 @@
-<img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" width="150em"></img> <h1>Standalone</h1>
-
-# Standalone-React
+<img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" width="150em"></img> <h1 style="color:cyan;">Standalone</h1>
 
 complete standalone react w/o npx create-react-app
 
