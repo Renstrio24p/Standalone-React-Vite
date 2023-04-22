@@ -1,5 +1,7 @@
 You may install this required dependencies for /node_modules
 
+just copy this command 
+
 npm i --save-dev webpack webpack-cli webpack-dev-server
 
 npm i --save-dev babel-loader @babel/preset-env @babel/core @babel/plugin-transform-runtime @babel/preset-react @babel/eslint-parser @babel/runtime @babel/cli
