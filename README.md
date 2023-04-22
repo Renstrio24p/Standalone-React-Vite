@@ -1,4 +1,6 @@
-<img src="https://i.ibb.co/4NfqXRf/Clipboard-removebg-preview-1.png" width="500em"></img> <h1 style="color:cyan;">Standalone</h1>
+<img src="https://i.ibb.co/4NfqXRf/Clipboard-removebg-preview-1.png" width="500em"></img>
+
+# Standalone React
 
 complete standalone react w/o npx create-react-app
 
