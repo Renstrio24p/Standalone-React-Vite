@@ -1,4 +1,4 @@
-<img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png"></img>
+<img src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_wordmark.png" width="12em"></img>
 
 # Standalone-React
 
