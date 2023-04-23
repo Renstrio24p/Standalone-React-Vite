@@ -17,7 +17,7 @@ Make sure you download it right away.
     - Windows - https://nodejs.org/dist/v18.16.0/node-v18.16.0-x64.msi
       Mac OS - https://nodejs.org/dist/v18.16.0/node-v18.16.0.pkg
 
-Start using <img src="https://i.ibb.co/xChqkbt/Clipboard-2-removebg-preview.png" width="120px"/> type this command.
+Start using <img src="https://i.ibb.co/xChqkbt/Clipboard-2-removebg-preview.png" width="200px"/> type this command.
 
     $ npm run sdreact
 
