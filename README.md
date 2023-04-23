@@ -10,7 +10,7 @@ complete standalone react w/o npx create-react-app
 
 Requires : Node JS
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg" width="100em"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg" width="200px"/>
 
 Make sure you download it right away.
 
