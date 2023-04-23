@@ -38,17 +38,20 @@ Note:
 
     - I prepared all the format inside of this folder
     
-      1. CSS 
-      2. index.html
-      3. php-components - requires hosting server to run backend 
+      - CSS 
+      - index.html
+      - php-components - requires hosting server to run backend 
       
 -> You can start coding with and do your experiments in "index.js"
 
-    2. index.js
+    - index.js
 
 -> You can put all your js files inside of "src" folder along with react.js or you can add folders inside.
 
-    3. react.js
+    - react-app.js >> template design for react-standalone
+    - react.js >> it's an empty space for coding your project
+    - files >> you can put all your components inside this folder and render it to "react.js"
+    
 
 -> After you install all dependencies, run this command
 
