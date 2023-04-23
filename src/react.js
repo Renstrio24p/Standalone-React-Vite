@@ -5,8 +5,9 @@ import React from 'react';
 
 export default function Page() {
     return (
-        <div>
-            <h1>Hello React this is Empty</h1>
+        <div className='react-div'>
+            <img className='react'></img>
+            <p className='react-text'>Standalone React</p>
         </div>
     )
 }

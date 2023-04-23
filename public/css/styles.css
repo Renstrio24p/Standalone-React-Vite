@@ -12,5 +12,29 @@ html {
 
 body {
     width: 100%;
-    height: 140vh;
+    height: 100vh;
+}
+
+/* You can comment this template design below to start your project*/
+.react-body {
+    background-color: rgb(33, 33, 33);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.react-div {
+    display: flex;
+    align-items: center;
+}
+
+
+.react {
+    content: url('../images/react-logo.gif');
+    width: 12em;
+}
+
+.react-text {
+    color: #2bcafa;
+    font-size: 2rem;
 }
