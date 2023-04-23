@@ -10,6 +10,7 @@
     "deploy": "gh-pages -d build",
     "predeploy": "npm run build",
     "build": "webpack",
+    "netlify":"netlify init",
     "terminate": "kill-port 9500",
     "test": "none"
   },
@@ -29,6 +30,7 @@
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-jest": "^27.2.1",
     "gh-pages": "^5.0.0",
+    "netlify-cli": "^14.2.1",
     "path": "^0.12.7",
     "webpack": "^5.80.0",
     "webpack-cli": "^5.0.2",
