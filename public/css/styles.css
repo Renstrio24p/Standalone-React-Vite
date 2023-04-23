@@ -16,18 +16,21 @@ body {
 }
 
 /* You can comment this template design below to start your project*/
+
+.react-parent, .react-body, .react-div {
+    display: flex;
+    align-items: center;
+}
 .react-body {
     background-color: rgb(33, 33, 33);
-    display: flex;
     justify-content: center;
-    align-items: center;
 }
 
-.react-div {
-    display: flex;
-    align-items: center;
-}
+.react-parent {
+    flex-direction: column;
+    gap: 1rem;
 
+}
 
 .react {
     content: url('../images/react-logo.gif');
@@ -37,4 +40,8 @@ body {
 .react-text {
     color: #2bcafa;
     font-size: 2rem;
+}
+
+.react-pgraph {
+    color: #fff;
 }
