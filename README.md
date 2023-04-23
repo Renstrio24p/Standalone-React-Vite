@@ -8,6 +8,10 @@ I made this component to make your life easier to explore react.
 
 complete standalone react w/o npx create-react-app
 
+Requires : Node JS
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg" width="100em"/>
+
 - Supports ES6 modules
 - Babel components
 - React version 18
