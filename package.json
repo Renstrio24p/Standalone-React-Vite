@@ -1,15 +1,16 @@
 {
   "homepage": "https://{username/project}",
-  "name": "react-portfolio-web",
+  "name": "standalone-react",
   "version": "1.0.0",
   "description": "React components without create-react-app",
   "main": "index.js",
   "scripts": {
-    "terminate": "kill-port 9500",
-    "deploy": "gh-pages -d build",
     "start": "webpack-dev-server",
+    "sdreact":"npm install",
+    "deploy": "gh-pages -d build",
     "predeploy": "npm run build",
     "build": "webpack",
+    "terminate": "kill-port 9500",
     "test": "none"
   },
   "author": "your name",
