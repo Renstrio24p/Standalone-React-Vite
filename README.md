@@ -2,7 +2,16 @@
 
 # Standalone React
 
-Standalone React v 1.0.0
+Standalone React v 1.0.2
+
+version update 1.0.2
+
+- add Netlify Deployment
+- add yarn
+- add src/files folder
+
+version update 1.0.0
+- preview version beta sdreact
 
 I made this component to make your life easier to explore react.
 
