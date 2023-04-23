@@ -12,6 +12,11 @@ Requires : Node JS
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg" width="100em"/>
 
+Make sure you download it right away.
+
+    - Windows - https://nodejs.org/dist/v18.16.0/node-v18.16.0-x64.msi
+      Mac OS - https://nodejs.org/dist/v18.16.0/node-v18.16.0.pkg
+
 - Supports ES6 modules
 - Babel components
 - React version 18
