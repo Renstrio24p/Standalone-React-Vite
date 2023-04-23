@@ -54,8 +54,8 @@ Note:
 
     4. npm run terminate
 
-    - to terminate port 9500 for your localhost, this command will terminate recent activity and you accidentally closed your terminal without
-      closing "npm start" on your project.
+    - to terminate port 9500 for your localhost, this command will terminate recent activity and you accidentally closed your 
+    terminal and you forgot to terminate "npm start" when pressing "ctrl + c".
 
     There you have it. I hope this helps to run your project in the future.
 
