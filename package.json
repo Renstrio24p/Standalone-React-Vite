@@ -5,6 +5,7 @@
   "description": "React components without create-react-app",
   "main": "index.js",
   "scripts": {
+    "terminate":"kill-port 9500",
     "deploy": "gh-pages -d build",
     "start": "webpack-dev-server",
     "predeploy": "npm run build",
