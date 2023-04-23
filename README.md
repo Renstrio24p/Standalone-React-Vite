@@ -17,8 +17,9 @@ Make sure you download it right away.
     - Windows - https://nodejs.org/dist/v18.16.0/node-v18.16.0-x64.msi
       Mac OS - https://nodejs.org/dist/v18.16.0/node-v18.16.0.pkg
 
-to Start using Standalone React type this command
-    1. npm run sdreact
+Start using Standalone React type this command.
+
+    $ npm run sdreact
 
 - Supports ES6 modules
 - Babel components
@@ -48,20 +49,20 @@ Note:
 
 -> After you install all dependencies, run this command
 
-    1. npm run build
+    $ npm run build
     
     - this command allows you to generate your main.js and execute changes
 
-    2. npm start
+    $ npm start
 
     - this command will start your localhost server
     - can terminate this job by pressing " ctrl + C " then type "Y".
     
-    3. npm run deploy
+    $ npm run deploy
 
     - allows to publish your code to github page and this might take sometimes to propagate.
 
-    4. npm run terminate
+    $ npm run terminate
 
     - to terminate port 9500 for your localhost, this command can be used to terminate your localhost.
       if you forgot to close your terminal without terminating "npm start" accidentally.
