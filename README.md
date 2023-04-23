@@ -52,6 +52,11 @@ Note:
 
     - allows to publish your code to github page and this might take sometimes to propagate.
 
+    4. npm run terminate
+
+    - to terminate port 9500 for your localhost, this command will terminate recent activity and you accidentally closed your terminal without
+      closing "npm start" on your project.
+
     There you have it. I hope this helps to run your project in the future.
 
 
