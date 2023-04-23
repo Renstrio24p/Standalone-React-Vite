@@ -19,7 +19,7 @@ Make sure you download it right away.
 
 To start Standalone React now run this command to install dependencies inside.
 
-<img src="https://i.ibb.co/xChqkbt/Clipboard-2-removebg-preview.png" width="200px"/>
+<img src="https://i.ibb.co/xChqkbt/Clipboard-2-removebg-preview.png" width="400px"/>
 
     $ npm run sdreact
 
@@ -35,7 +35,8 @@ Note:
 - npm run deploy - to publish your react project
 
 -> You can put your own folders here inside this public folder
-    - I prepare all the format inside of this folder
+
+    - I prepared all the format inside of this folder
     
       1. CSS 
       2. index.html
