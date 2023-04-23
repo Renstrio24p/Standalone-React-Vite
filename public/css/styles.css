@@ -13,11 +13,15 @@ html {
 body {
     width: 100%;
     height: 100vh;
+    background-image: url(../images/reactjs-icon2.png);
+    background-repeat:no-repeat;
+    background-position:right center;
+    background-size: 40vh;
 }
 
 /* You can comment this template design below to start your project*/
 
-.react-parent, .react-body, .react-div {
+.react-parent, .react-body, .react-div,.react-pgraph {
     display: flex;
     align-items: center;
 }
@@ -44,4 +48,10 @@ body {
 
 .react-pgraph {
     color: #fff;
+    gap: 20px;
+}
+
+.react-js{
+    font-size: 20px;
+    color:#2bcafa;
 }

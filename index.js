@@ -1,11 +1,17 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import Page from "./src/react"
+import Page from "./src/react-app"
+import ReactApp from "./src/react";
 
 const DOM = ReactDOM.createRoot(document.getElementById('root'))
 DOM.render(<Page />)
                                                             
 // You can start coding right here with your experiment
+
+// To call all your files inside the src folder use this command below.
+
+// const DOM = ReactDOM.createRoot(document.getElementById('root'))
+// DOM.render(<ReactApp />) 
 
 /*
   Note: React 17 vs React 18

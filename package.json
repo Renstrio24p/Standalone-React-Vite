@@ -6,7 +6,7 @@
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server",
-    "sdreact":"npm install",
+    "sdreact": "npm install",
     "deploy": "gh-pages -d build",
     "predeploy": "npm run build",
     "build": "webpack",
