@@ -17,6 +17,9 @@ Make sure you download it right away.
     - Windows - https://nodejs.org/dist/v18.16.0/node-v18.16.0-x64.msi
       Mac OS - https://nodejs.org/dist/v18.16.0/node-v18.16.0.pkg
 
+to Start using Standalone React type this command
+    1. npm run sdreact
+
 - Supports ES6 modules
 - Babel components
 - React version 18
@@ -37,14 +40,11 @@ Note:
       
 -> You can start coding with and do your experiments in "index.js"
 
-    1. index.js
+    2. index.js
 
 -> You can put all your js files inside of "src" folder along with react.js or you can add folders inside.
 
-    1. react.js
-
-
--> Read "dependencies-npm to make this component package work" 
+    3. react.js
 
 -> After you install all dependencies, run this command
 
