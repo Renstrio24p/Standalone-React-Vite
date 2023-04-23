@@ -17,7 +17,7 @@ Make sure you download it right away.
     - Windows - https://nodejs.org/dist/v18.16.0/node-v18.16.0-x64.msi
       Mac OS - https://nodejs.org/dist/v18.16.0/node-v18.16.0.pkg
 
-Start using Standalone React type this command.
+Start using <img src="https://ibb.co/bW150VM" width="60px"/> type this command.
 
     $ npm run sdreact
 
@@ -51,21 +51,21 @@ Note:
 
     $ npm run build
     
-    - this command allows you to generate your main.js and execute changes
+this command allows you to generate your main.js and execute changes
 
     $ npm start
 
-    - this command will start your localhost server
-    - can terminate this job by pressing " ctrl + C " then type "Y".
+this command will start your localhost server
+can terminate this job by pressing " ctrl + C " then type "Y".
     
     $ npm run deploy
 
-    - allows to publish your code to github page and this might take sometimes to propagate.
+allows to publish your code to github page and this might take sometimes to propagate.
 
     $ npm run terminate
 
-    - to terminate port 9500 for your localhost, this command can be used to terminate your localhost.
-      if you forgot to close your terminal without terminating "npm start" accidentally.
+to terminate port 9500 for your localhost, this command can be used to terminate your localhost.
+if you forgot to close your terminal without terminating "npm start" accidentally.
 
     There you have it. I hope this helps to run your project in the future.
 
