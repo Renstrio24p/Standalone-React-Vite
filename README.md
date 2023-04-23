@@ -18,6 +18,7 @@ Make sure you download it right away.
       Mac OS - https://nodejs.org/dist/v18.16.0/node-v18.16.0.pkg
 
 To start Standalone React now run this command to install dependencies inside.
+
 <img src="https://i.ibb.co/xChqkbt/Clipboard-2-removebg-preview.png" width="200px"/>
 
     $ npm run sdreact
