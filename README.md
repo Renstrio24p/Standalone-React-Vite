@@ -77,6 +77,10 @@ can terminate this job by pressing " ctrl + C " then type "Y".
 
 allows to publish your code to github page and this might take sometimes to propagate.
 
+    $ npm run netlify
+
+allows to publish your code to netlify
+
     $ npm run terminate
 
 to terminate port 9500 for your localhost, this command can be used to terminate your localhost.
