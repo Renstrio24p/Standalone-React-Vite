@@ -12,6 +12,7 @@
     "build": "webpack",
     "sdreact": "npm i",
     "netlify": "netlify init",
+    "vercel":"vercel login",
     "test": "none"
   },
   "author": "your name",
