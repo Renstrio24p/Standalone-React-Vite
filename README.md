@@ -2,11 +2,35 @@
 
 # Standalone React
 
-Standalone React v 1.0.0
+Standalone React v 1.0.2
+
+version update 1.0.2
+
+- add Netlify Deployment
+- add yarn
+- add src/files folder
+
+version update 1.0.0
+- preview version beta sdreact
 
 I made this component to make your life easier to explore react.
 
 complete standalone react w/o npx create-react-app
+
+Requires : Node JS
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Node.js_logo_2015.svg" width="200px"/>
+
+Make sure you download it right away.
+
+    - Windows - https://nodejs.org/dist/v18.16.0/node-v18.16.0-x64.msi
+      Mac OS - https://nodejs.org/dist/v18.16.0/node-v18.16.0.pkg
+
+To start Standalone React now run this command to install dependencies inside.
+
+<img src="https://i.ibb.co/xChqkbt/Clipboard-2-removebg-preview.png" width="400px"/>
+
+    $ npm run sdreact
 
 - Supports ES6 modules
 - Babel components
@@ -20,42 +44,47 @@ Note:
 - npm run deploy - to publish your react project
 
 -> You can put your own folders here inside this public folder
-    - I prepare all the format inside of this folder
+
+    - I prepared all the format inside of this folder
     
-      1. CSS 
-      2. index.html
-      3. php-components - requires hosting server to run backend 
+      - CSS 
+      - index.html
+      - php-components - requires hosting server to run backend 
       
 -> You can start coding with and do your experiments in "index.js"
 
-    1. index.js
+    - index.js
 
 -> You can put all your js files inside of "src" folder along with react.js or you can add folders inside.
 
-    1. react.js
-
-
--> Read "dependencies-npm to make this component package work" 
+    - react-app.js >> template design for react-standalone
+    - react.js >> it's an empty space for coding your project
+    - files >> you can put all your components inside this folder and render it to "react.js"
+    
 
 -> After you install all dependencies, run this command
 
-    1. npm run build
+    $ npm run build
     
-    - this command allows you to generate your main.js and execute changes
+this command allows you to generate your main.js and execute changes
 
-    2. npm start
+    $ npm start
 
-    - this command will start your localhost server
-    - can terminate this job by pressing " ctrl + C " then type "Y".
+this command will start your localhost server
+can terminate this job by pressing " ctrl + C " then type "Y".
     
-    3. npm run deploy
+    $ npm run deploy
 
-    - allows to publish your code to github page and this might take sometimes to propagate.
+allows to publish your code to github page and this might take sometimes to propagate.
 
-    4. npm run terminate
+    $ npm run netlify
 
-    - to terminate port 9500 for your localhost, this command can be used to terminate your localhost.
-      if you forgot to close your terminal without terminating "npm start" accidentally.
+allows to publish your code to netlify
+
+    $ npm run terminate
+
+to terminate port 9500 for your localhost, this command can be used to terminate your localhost.
+if you forgot to close your terminal without terminating "npm start" accidentally.
 
     There you have it. I hope this helps to run your project in the future.
 
@@ -65,4 +94,3 @@ Note:
     Web Developer
 
 Copyright &copy; 2023 Waren Gador  
-
