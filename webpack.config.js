@@ -17,7 +17,7 @@ module.exports={
         /** "path"
          * the folder path of the output file 
          */
-        path: path.resolve(__dirname, "./"),
+        path: path.resolve(__dirname, "public"),
         /** "filename"
          * the name of the output file 
          */
@@ -36,7 +36,7 @@ module.exports={
         /** "static" 
          * This property tells Webpack what static file it should serve
         */
-        static: ["./"],
+        static: ["./public"],
         /** "open" 
          * opens the browser after server is successfully started
         */

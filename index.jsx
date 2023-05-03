@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import Page from "./react-logo/react-app"; // You can remove this import if you want to remove the logo
+import Page from "./react-app"; // You can remove this import if you want to remove the logo
 
 const DOM = ReactDOM.createRoot(document.getElementById('root'))
 DOM.render(<Page />)
