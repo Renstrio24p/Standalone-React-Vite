@@ -1,0 +1,47 @@
+
+
+.react-body {
+    width: 100%;
+    height: 100vh;
+    background-image: url(./react-logo/images/reactjs-icon2.png);
+    background-repeat:no-repeat;
+    background-position:right center;
+    background-size: 40vh;
+}
+
+/* You can comment this template design below to start your project*/
+
+.react-parent, .react-body, .react-div,.react-pgraph {
+    display: flex;
+    align-items: center;
+}
+.react-body {
+    background-color: rgb(33, 33, 33);
+    justify-content: center;
+}
+
+.react-parent {
+    flex-direction: column;
+    gap: 1rem;
+
+}
+
+.react {
+    content: url('./react-logo/images/react-logo.gif');
+    width: 12em;
+}
+
+.react-text {
+    color: #2bcafa;
+    font-size: 2rem;
+}
+
+.react-pgraph {
+    color: #fff;
+    gap: 20px;
+}
+
+.react-js{
+    font-size: 20px;
+    color:#2bcafa;
+}
