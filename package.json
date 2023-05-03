@@ -11,6 +11,7 @@
     "predeploy": "npm run build",
     "build": "webpack",
     "sdreact": "npm i",
+    "netlify": "netlify init",
     "test": "none"
   },
   "author": "your name",
