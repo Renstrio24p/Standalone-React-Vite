@@ -38,4 +38,8 @@ To start Standalone React now run this command to install dependencies inside.
     
 locate the "Start.jsx" and start your coding with react.
 
+     I hope you like my work for this template.
+     - Waren Gador
+       Web Developer
+
 
