@@ -1,17 +1,21 @@
-<img src="https://i.ibb.co/4NfqXRf/Clipboard-removebg-preview-1.png" width="500em"></img>
+<a href="https://react.dev/"> <img src="https://i.ibb.co/4NfqXRf/Clipboard-removebg-preview-1.png" width="500em"></img></a>
 
 # Standalone React
 
-Standalone React v 1.0.2
+Standalone React v 1.0.3
+
+version update 1.0.3
+
+    - updating files with vite js runtime
+    - remove yarn (optional)
 
 version update 1.0.2
 
-- add Netlify Deployment
-- add yarn
-- add src/files folder
+    - add yarn
 
 version update 1.0.0
-- preview version beta sdreact
+
+    - preview version beta sdreact
 
 I made this component to make your life easier to explore react.
 
@@ -29,3 +33,9 @@ Make sure you download it right away.
 To start Standalone React now run this command to install dependencies inside.
 
 <img src="https://i.ibb.co/xChqkbt/Clipboard-2-removebg-preview.png" width="400px"/>
+
+    $ npm run sd-react
+    
+locate the "Start.jsx" and start your coding with react.
+
+
