@@ -36,6 +36,16 @@ To start Standalone React now run this command to install dependencies inside.
 
     $ npm run sd-react
     
+commands available
+
+Building your changes
+     
+    $ npm run build
+
+Start your React Server
+    
+    $ npm start
+    
 locate the "Start.jsx" and start your coding with react.
 
      I hope you like my work for this template.
