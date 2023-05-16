@@ -1,14 +1,18 @@
 import React from "react";
-// import { ReactDOM }  from "react"; // React 17
-import ReactDOM from "react-dom/client" // React 18
+import ReactDOM from "react-dom/client";
+import { BrowserRouter } from "react-router-dom";
+import "https://kit.fontawesome.com/6b203b1712.js";
+import "./index.css";
+import ReactApp from "./react-folder/react";
+import Start from "./start";
 
 const Page = (
-    <React.StrictMode>
-        <Start />
-    </React.StrictMode>
-)
+  <React.StrictMode>
+    <BrowserRouter>
+      <ReactApp />
+    </BrowserRouter>
+  </React.StrictMode>
+);
 
-const DOM = ReactDOM.createRoot(document.getElementById('root'))
-DOM.render(Page) // React 18
-
-// ReactDOM.render(<Start />,document.getElementById('root')) // React 17
+const DOM = ReactDOM.createRoot(document.getElementById("root"));
+DOM.render(Page);
