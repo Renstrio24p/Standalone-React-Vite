@@ -1,4 +1,3 @@
-import React from "react";
 import ReactDOM from "react-dom/client";
 import "https://kit.fontawesome.com/6b203b1712.js";
 import "./index.css";
