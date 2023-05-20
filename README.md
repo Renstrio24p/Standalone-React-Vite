@@ -2,7 +2,11 @@
 
 # Standalone React - Vite Version
 
-Standalone React v 1.0.3
+Standalone React v 1.0.4
+
+version update 1.0.4
+
+    - add support for codespace
 
 version update 1.0.3
 
