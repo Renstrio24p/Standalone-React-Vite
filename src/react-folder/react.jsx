@@ -14,12 +14,11 @@ export default function ReactApp() {
                              <img className="react-img"></img>
                              <span className='react-js'> React JS.</span> 
                          </p>
+                           <span className="react-title">Click the icon to read documentation. </span> 
                     </div>
+                    <a href="https://vitejs.dev/"><img className='vite'></img></a>
                 </div>
-           <div className="footer">
-              <img className="nodejs" />
-              <img className="netlify" />
-           </div>
+           <div className="vite-overlay"></div>
            </div>
         </div>
     )
