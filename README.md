@@ -38,7 +38,7 @@ To start Standalone React now run this command to install dependencies inside.
 
 <img src="https://i.ibb.co/xChqkbt/Clipboard-2-removebg-preview.png" width="400px"/>
 
-    $ npm run sd-react
+    $ npm i
     
 commands available
 
@@ -46,7 +46,7 @@ Building your changes
      
     $ npm run build
 
-Start your React Server
+Start your React Server - Codespace
     
     $ npm start
 
