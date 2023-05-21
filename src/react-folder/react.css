@@ -1,7 +1,8 @@
 .react-content,
 .vite-overlay {
     position: absolute;
-    height: 100vh
+    height: 100vh;
+    cursor: url('../src/assets/vite.svg'), auto
 }
 
 .react-body,
