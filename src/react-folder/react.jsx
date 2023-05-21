@@ -29,7 +29,7 @@ export default function ReactApp() {
         <div className="vite-overlay"></div>
         <div className="footer">
              <p className="version">Version 1.0.4</p>
-             <a href="https://github.com/features/codespaces/" className="git"> <img src="github.png" className="github" /> Codespaces </a>
+             <a href="#0" className="git"> <img src="github.png" className="github" /> Codespaces </a>
            </div>
       </div>
     </div>
