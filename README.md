@@ -15,7 +15,7 @@ version update 1.0.3
 
 version update 1.0.2
 
-    - add yarn
+    - add yarn 
 
 version update 1.0.0
 
@@ -49,8 +49,14 @@ Building your changes
 Start your React Server
     
     $ npm start
+
+This Project is automatically deployed your project on github page.
+
+Update version
+
+    $ npm run update
     
-locate the "Start.jsx" and start your coding with react.
+locate the "Start.jsx" to test your experiments or you can make your own.
 
      I hope you like my work for this template.
      - Waren Gador
