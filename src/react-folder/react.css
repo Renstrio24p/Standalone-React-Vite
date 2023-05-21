@@ -2,7 +2,7 @@
 .vite-overlay {
     position: absolute;
     height: 100vh;
-    cursor: url('../src/assets/vite.svg'), auto
+    cursor: url('../assets/vite-cursor.svg'), auto;
 }
 
 .react-body,
@@ -98,6 +98,10 @@
     color: #bcf3f3
 }
 
+a {
+    cursor: url('../assets/vite.svg'),auto;
+}
+
 .react-title {
     font-weight: 300;
     color: #fff
@@ -130,6 +134,7 @@
     will-change: filter;
     filter: drop-shadow(0 0 2em #fbfdfdda);
 }
+
 
 @media (prefers-reduced-motion:no-preference) {
     .react {

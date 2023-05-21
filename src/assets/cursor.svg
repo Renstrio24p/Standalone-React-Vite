@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1000" height="1000" viewBox="0 0 1000 1000" xml:space="preserve">
+<desc>Created with Fabric.js 3.5.0</desc>
+<defs>
+</defs>
+<rect x="0" y="0" width="100%" height="100%" fill="#ffffff"/>
+<g transform="matrix(-27.9372 10.1712 -10.1712 -27.9372 412.2619 478.3718)" id="253635">
+<g style="" vector-effect="non-scaling-stroke">
+		<g transform="matrix(0.1245 0 0 0.1245 -0.0018 1.7106)">
+<linearGradient id="SVGID_3" gradientUnits="objectBoundingBox" gradientTransform="matrix(1 0 0 1 128.0002 142.2509)" x1="-0.00828" y1="0.07652" x2="0.5763600000000001" y2="0.7841100000000001">
+<stop offset="0%" style="stop-color:rgb(65,209,255);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(189,52,254);stop-opacity: 1"/>
+</linearGradient>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: url(#SVGID_3); fill-rule: nonzero; opacity: 1;" transform=" translate(-128.0002, -142.2509)" d="M 255.153 37.938 L 134.897 252.976 c -2.483 4.44 -8.862 4.466 -11.382 0.048 L 0.875 37.958 c -2.746 -4.814 1.371 -10.646 6.827 -9.67 l 120.385 21.517 a 6.537 6.537 0 0 0 2.322 -0.004 l 117.867 -21.483 c 5.438 -0.991 9.574 4.796 6.877 9.62 Z" stroke-linecap="round"/>
+</g>
+		<g transform="matrix(0.1245 0 0 0.1245 2.3674 -2.6786)">
+<linearGradient id="SVGID_4" gradientUnits="objectBoundingBox" gradientTransform="matrix(1 0 0 1 147.02 106.9997)" x1="0.43376" y1="0.02242" x2="0.50316" y2="0.8903">
+<stop offset="0%" style="stop-color:rgb(255,234,131);stop-opacity: 1"/>
+<stop offset="8.333%" style="stop-color:rgb(255,221,53);stop-opacity: 1"/>
+<stop offset="100%" style="stop-color:rgb(255,168,0);stop-opacity: 1"/>
+</linearGradient>
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; is-custom-font: none; font-file-url: none; fill: url(#SVGID_4); fill-rule: nonzero; opacity: 1;" transform=" translate(-147.02, -106.9997)" d="M 185.432 0.063 L 96.44 17.501 a 3.268 3.268 0 0 0 -2.634 3.014 l -5.474 92.456 a 3.268 3.268 0 0 0 3.997 3.378 l 24.777 -5.718 c 2.318 -0.535 4.413 1.507 3.936 3.838 l -7.361 36.047 c -0.495 2.426 1.782 4.5 4.151 3.78 l 15.304 -4.649 c 2.372 -0.72 4.652 1.36 4.15 3.788 l -11.698 56.621 c -0.732 3.542 3.979 5.473 5.943 2.437 l 1.313 -2.028 l 72.516 -144.72 c 1.215 -2.423 -0.88 -5.186 -3.54 -4.672 l -25.505 4.922 c -2.396 0.462 -4.435 -1.77 -3.759 -4.114 l 16.646 -57.705 c 0.677 -2.35 -1.37 -4.583 -3.769 -4.113 Z" stroke-linecap="round"/>
+</g>
+</g>
+</g>
+</svg>
