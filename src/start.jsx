@@ -1,5 +1,5 @@
 import React from "react";
-import Title from "./title.jsx"
+import "./title.jsx"
 
 export default function Start(){
     return (
