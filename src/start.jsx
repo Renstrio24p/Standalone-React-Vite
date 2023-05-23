@@ -8,3 +8,5 @@ export default function Start(){
         </div>
     )
 }
+
+// this is the same as App.js in cra
