@@ -1,5 +1,4 @@
 import React from "react";
-import "./title.jsx"
 
 export default function Start(){
     return (
@@ -10,4 +9,4 @@ export default function Start(){
     )
 }
 
-// this is the same as App.js in cra
+// this is the same as App.js in CRA
