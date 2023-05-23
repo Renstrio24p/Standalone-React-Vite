@@ -114,11 +114,13 @@ a {
     position: absolute;
     bottom: 0;
     align-items: center;
-    padding:10px
+    z-index: 2;
+    padding:50px 20px 10px
 }
 
 .version {
     color: #9c9a9a;
+    padding: 30px 0 0;
 }
 
 .github {
@@ -133,6 +135,7 @@ a {
     text-decoration: none;
     will-change: filter;
     filter: drop-shadow(0 0 2em #fbfdfdda);
+    padding: 30px 0 0;
 }
 
 
