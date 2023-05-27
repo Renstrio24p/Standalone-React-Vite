@@ -8,5 +8,5 @@ export default defineConfig({
   build: {
       outDir: 'dist',
   },
-  publicDir: 'src/images'
+  publicDir: './src/images'
 })
