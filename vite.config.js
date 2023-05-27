@@ -6,7 +6,7 @@ export default defineConfig({
   server: {
     open: './',
   },
-    root: './',
+    base: './',
     publicDir: './src/images',
     plugins: [react()],
 })
