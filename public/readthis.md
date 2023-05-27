@@ -1,1 +1,0 @@
-in order to link your image from src. please put your images in this folder

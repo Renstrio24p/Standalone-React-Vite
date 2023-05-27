@@ -2,7 +2,7 @@
 .vite-overlay {
     position: absolute;
     height: 100vh;
-    cursor: url('../assets/vite-cursor.svg'), auto;
+    cursor: url('/react/vite-cursor.svg'), auto;
 }
 
 .react-body,
@@ -22,7 +22,7 @@
 .react-body,
 .vite-overlay {
     background-position-x: right;
-    background-image: url('../react-folder/reactjs-icon2.png');
+    background-image: url('/react/reactjs-icon2.png');
     background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
@@ -40,7 +40,7 @@
 
 .vite-overlay {
     background-position-x: left;
-    background-image: url('../react-folder/vite.png');
+    background-image: url('/react/vite.png');
     margin-left: -100px;
     z-index: -1;
     background-size: 25vh
@@ -64,12 +64,10 @@
 }
 
 .react {
-    content: url('../react-folder/react.svg');
     width: 30vh
 }
 
 .vite {
-    content: url('../react-folder/vite.svg');
     width: 20vh
 }
 
@@ -82,7 +80,6 @@
 }
 
 .react-img {
-    content: url('../react-folder/react.svg');
     width: 50px
 }
 
@@ -99,7 +96,7 @@
 }
 
 a {
-    cursor: url('../assets/vite.svg'),auto;
+    cursor: url('/react/vite.svg'),auto;
 }
 
 .react-title {
@@ -124,7 +121,7 @@ a {
 }
 
 .github {
-    content: url('./github.png');
+    content: url('/react/github.png');
     width: 120px;
 }
 
