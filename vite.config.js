@@ -7,6 +7,5 @@ export default defineConfig({
     open: './',
   },
     base: './',
-    publicDir: './src/images',
     plugins: [react()],
 })
