@@ -4,6 +4,11 @@
 
 Standalone React v 1.0.4
 
+version update 1.0.5
+
+   - Recontruct /src
+   - Auto run browser support
+
 version update 1.0.4
 
     - add support for codespace
