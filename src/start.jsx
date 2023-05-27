@@ -1,12 +1,11 @@
 import React from "react";
 
-export default function Start(){
-    return (
-        <div>
-            <h1>Hello React </h1>
-            {/* You can start coding right here */}
-        </div>
-    )
+export default function Start() {
+  return (
+      <div className="App">
+        <h1>Hello React <i className="fa-solid fa-handshake"></i></h1>
+      </div>
+  );
 }
 
-// This is the same as APP.JS
+// this is the same as App.js in CRA

@@ -1,11 +1,13 @@
-import React from 'react'
-import ReactDOM from 'react-dom/client'
-import './index.css'
-import Start from './start.jsx'
-import ReactApp from './react-18/react'
+import React from "react";
+import ReactDOM from "react-dom/client";
+import ReactApp from "./react-18/react";
+import "https://kit.fontawesome.com/6b203b1712.js";
+import "./index.css";
+import Start from "./start"; 
 
-ReactDOM.createRoot(document.getElementById('root')).render(
-  <React.StrictMode>
-    <ReactApp />
-  </React.StrictMode>
-)
+const DOM = ReactDOM.createRoot(document.getElementById("root"));
+DOM.render(
+    <React.StrictMode>
+            <ReactApp />
+    </React.StrictMode>
+);
