@@ -2,7 +2,11 @@
 
 # Standalone React - Vite Version
 
-Standalone React v 1.0.4
+Standalone React v 1.0.5
+
+version update 1.0.5
+
+    - add Auto run server
 
 version update 1.0.4
 
