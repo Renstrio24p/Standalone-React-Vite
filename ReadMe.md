@@ -42,7 +42,7 @@ To start Standalone React now run this command to install dependencies inside.
 
 <img src="https://i.ibb.co/xChqkbt/Clipboard-2-removebg-preview.png" width="400px"/>
 
-    $ npm i
+    $ npx @standalone-stacks/react-vite my-project
     
 commands available
 
