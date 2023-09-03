@@ -1,9 +1,14 @@
+import React from "react";
+import ReactApp from "./components/react";
 
-import React from 'react'
-import ReactApp from './assets/react-18/react'
 
 export default function Start(){
+
     return (
-        <ReactApp /> /* You can delete this <ReactApp /> and to test out replace with <h1>Hello World</h1>*/
+        <div>
+            <ReactApp />
+            {/* You can start coding this file */}
+        </div>
     )
+
 }

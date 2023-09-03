@@ -1,11 +1,11 @@
 {
   "name": "react-vite",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "React 18",
   "main": "vite.config.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "vite",
+    "start": "vite --open",
     "start-host": "vite --host",
     "build": "vite build",
     "view": "vite preview"

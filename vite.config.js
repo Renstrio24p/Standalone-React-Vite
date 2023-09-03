@@ -6,7 +6,6 @@ export default defineConfig({
   base: './',
   publicDir: 'src/images',
   server: {
-    open: './',
     port: 5500
   },
 })
